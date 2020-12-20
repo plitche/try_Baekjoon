@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Answer_2 {
+public class Answer2 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -22,6 +22,7 @@ public class Answer_2 {
 				sb.append(i-1000000).append('\n');
 			}
 		}
+		System.out.println(sb);
 	}
 
 }
