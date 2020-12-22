@@ -1,4 +1,4 @@
-package sort.Q10989;
+package stage12_sort.Q10989;
 
 public class Answer1 {
 

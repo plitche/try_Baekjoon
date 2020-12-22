@@ -1,4 +1,4 @@
-package if문.Q2753;
+package stage02_if문.Q2753;
 
 import java.io.BufferedReader;
 import java.io.IOException;

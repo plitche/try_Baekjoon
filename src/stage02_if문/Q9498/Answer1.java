@@ -1,4 +1,4 @@
-package if문.Q9498;
+package stage02_if문.Q9498;
 
 import java.io.*;
 

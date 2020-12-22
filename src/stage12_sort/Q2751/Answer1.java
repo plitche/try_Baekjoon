@@ -1,4 +1,4 @@
-package sort.Q2751;
+package stage12_sort.Q2751;
 
 import java.io.BufferedReader;
 import java.io.IOException;
