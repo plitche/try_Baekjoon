@@ -24,14 +24,13 @@ public class Answer1 {
 		// M과 N사이의 소수들을 오름차순으로 정렬하라.
 		
 		boolean[] primeNo = new boolean[N+1];	//소수가 아닌 숫자들을 true로 바꾸기 
-		primeNo[1] = true;	//1은 소수가 아니다.
+		primeNo[0] = true;
+		primeNo[1] = true;
 		
-		for (int i=2; i<N/2; i++) {
+		for (int i=2; i<N/2; i++) {	// 소인수분해시 2가 가장 낮은 숫자임으로 N/2까지만 하면된다.
 			if (primeNo[i]==false) {
-				for (int j=i+1; j<=N; j++) {
-					if (j%i==0) {	//2이상 i의 배수들은 전부 소수가 아니다. 
-						primeNo[j] = true;
-					}
+				for (int j=i+i; j<=N; j=j+i) { // i의 배수들은 전부 소수가 아니다.
+					primeNo[j] = true;
 				}
 			}
 		}
