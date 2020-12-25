@@ -1,10 +1,17 @@
+/* 
+	작성자: 권용수
+	이메일: kysu728@naver.com
+	주소: 서울시 마포구
+	GitHub: https://github.com/plitche/try_Baekjoon
+*/
+
 package step09_math2.Q2581;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Answer1 {
+public class Wrong1 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -39,7 +46,6 @@ public class Answer1 {
 			System.out.println(total);
 			System.out.println(min);
 		}
-		
 		
 	}
 
