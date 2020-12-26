@@ -3,7 +3,7 @@ package step02_if.Q1330;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Answer1 {
+public class 두수비교하기1 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

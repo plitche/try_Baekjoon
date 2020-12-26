@@ -26,7 +26,6 @@ public class Answer1 {
 		boolean[] primeNo = new boolean[N+1];	//소수가 아닌 숫자들을 true로 바꾸기 
 		primeNo[0] = true;
 		primeNo[1] = true;
-		
 		for (int i=2; i<N/2; i++) {	// 소인수분해시 2가 가장 낮은 숫자임으로 N/2까지만 하면된다.
 			if (primeNo[i]==false) {
 				for (int j=i+i; j<=N; j=j+i) { // i의 배수들은 전부 소수가 아니다.
