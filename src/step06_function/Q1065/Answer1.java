@@ -21,7 +21,6 @@ public class Answer1 {
 			}
 			System.out.println(99+count);
 		}
-		
 	}
 	
 }
