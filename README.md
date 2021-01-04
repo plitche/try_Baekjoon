@@ -1,7 +1,7 @@
 ## 🌏 Yongsoo's BAECKJOON Answer
 ##### Hi. This is my answer of BAEKJOON's question
 ##### commited only collert Answers
-##### Will update format to easily compare each code's run-time  #
+##### Will update format to easily compare each code's run-time  :D #
   #
 * &nbsp;&nbsp; *URL: https://www.acmicpc.net/*
 * &nbsp;&nbsp; [MyProfile of Baeckjoon](https://www.acmicpc.net/user/ferdy728)
