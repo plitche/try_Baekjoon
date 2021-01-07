@@ -1,4 +1,4 @@
-package second_if.Q1330;
+package step02_if.Q1330;
 
 import java.io.*;
 import java.util.StringTokenizer;

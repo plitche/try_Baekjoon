@@ -1,4 +1,4 @@
-package step05_array01.Q1546;
+package step05_oneDimensionalArray.Q1546;
 
 import java.util.Scanner;
 

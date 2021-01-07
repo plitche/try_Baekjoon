@@ -1,4 +1,4 @@
-package step05_array01.Q8958;
+package step05_oneDimensionalArray.Q8958;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

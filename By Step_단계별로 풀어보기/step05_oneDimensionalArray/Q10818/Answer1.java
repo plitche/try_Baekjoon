@@ -1,4 +1,4 @@
-package step05_array01.Q10818;
+package step05_oneDimensionalArray.Q10818;
 
 import java.io.BufferedReader;
 import java.io.IOException;
