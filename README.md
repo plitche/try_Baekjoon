@@ -1,5 +1,5 @@
 ## 🌏 Yongsoo's BAECKJOON Answer
-##### Hi. This is my answer of BAEKJOON's question
+##### Hi. This is my answer of BAEKJOON's question  
 ##### commited only collect Answers
 ##### Will update format to easily compare each code's run-time  :
 
